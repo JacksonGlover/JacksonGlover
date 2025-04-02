@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Finishing my Degree at Waterloo
+- 🔭 I’m currently working on Finishing my Degree at Conestoga College
 - 🌱 I’m currently learning C++ in depth
 - 👯 I’m looking to collaborate on web focused projects
 - 🤔 I’m looking for help with furthering database skills
